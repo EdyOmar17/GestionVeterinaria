@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65169AB2-500B-474C-892E-9412B9DFFE56}|PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV.csproj|c:\\users\\51936\\downloads\\proyectos iv jp\\proyecto_rr_taller de programacion concurrente criterio n\u00BA2\\proyecto_rr_tpc_gv\\proyecto_rr_tpc_gv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65169AB2-500B-474C-892E-9412B9DFFE56}|PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV.csproj|solutionrelative:proyecto_rr_tpc_gv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65169AB2-500B-474C-892E-9412B9DFFE56}|PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV.csproj|C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\proyecto_rr_tpc_gv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65169AB2-500B-474C-892E-9412B9DFFE56}|PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV.csproj|solutionrelative:proyecto_rr_tpc_gv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO_RR_TPC_GV\\Program.cs",
+              "ToolTip": "C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV\\Program.cs",
+              "RelativeToolTip": "PROYECTO_RR_TPC_GV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:17:07.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO_RR_TPC_GV\\Form1.cs",
+              "ToolTip": "C:\\Users\\51936\\Downloads\\PROYECTOS IV JP\\PROYECTO_RR_TALLER DE PROGRAMACION CONCURRENTE CRITERIO N\u00BA2\\PROYECTO_RR_TPC_GV\\PROYECTO_RR_TPC_GV\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO_RR_TPC_GV\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:25:08.778Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
